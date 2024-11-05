@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, sou a Mariana Matias Siqueira</h1>
 <h3 align="center">Desenvolvimento Web | Full-Stack | Web Design</h3>
 
-<br/>
-
 ## Sobre mim
 
 - 🌱 Atualmente graduando na **UNIVESP - Bacharelado em Tecnologia da Informação**
